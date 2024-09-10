@@ -40,7 +40,7 @@ Hi there 👋, I am
 ![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,figma,blender)
+![Others](https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,figma,blender,unity,unreal,zbrush)
 
 
 ## ✍️ GitHub Stats:
