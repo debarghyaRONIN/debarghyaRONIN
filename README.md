@@ -19,9 +19,8 @@ Hi there 👋, I am
 
 ## SOCIALS and OTHERS 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/) 
-[![Codolio Profile](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image)](https://codolio.com/profile/q684SJ8c)
-[Check out my Codolio profile](https://codolio.com/profile/q684SJ8c)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/) 
+- [Check out my Codolio profile](https://codolio.com/profile/q684SJ8c)
 
 
 ## TECH STACK
