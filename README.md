@@ -1,8 +1,8 @@
 Hi there 👋, I am
 
-# Debarghya Saha, and I'm a
+# Debarghya Saha
 
-## Data Science and Machine Learning Enthusiast, 3d Artist , Competitive Programmer.
+## A Data Science and Machine Learning Enthusiast, 3d Artist , Competitive Programmer.
 
 ### I am an undergraduate student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata.I began my 3d artist journey as a hobby in 2018 then turned into a gig which i continued till 2022. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting i start learning it. I wish to become a better Engineer by bringing up the solutions for unsolved problems and helping the community out with my skills for growing towards a better future.
 
@@ -12,8 +12,6 @@ Hi there 👋, I am
   
 - Also doing **Backend and API** development with **Python**. 🧑‍💻
   
-  🧮
-  
 - Love making Games especially designing characters and game mechanics. 🎮
   
 
@@ -22,7 +20,8 @@ Hi there 👋, I am
 ## SOCIALS and OTHERS 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/) 
-
+[![Codolio Profile](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image)](https://codolio.com/profile/q684SJ8c)
+[Check out my Codolio profile](https://codolio.com/profile/q684SJ8c)
 
 
 ## TECH STACK
