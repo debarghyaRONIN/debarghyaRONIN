@@ -4,9 +4,9 @@ Hi there 👋, I am
 
 ## Data Science and Machine Learning Enthusiast, 3d Artist , Competitive Programmer.
 
-### I am an undergraduate student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata.I began my 3d artist journey as a hobby in 2018 then turned into a gig. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting i start learning it. I wish to become a better Engineer by making contributions to open source projects, helping the community out with my skills, growing in the process and contributing towards a better future altogether. 
+### I am an undergraduate student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata.I began my 3d artist journey as a hobby in 2018 then turned into a gig which i continued till 2022. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting i start learning it. I wish to become a better Engineer by bringing up the solutions for unsolved problems and helping the community out with my skills for growing towards a better future.
 
-### Thanks
+### Thanks!
 
 - Currently Exploring Machine Learning and Deep Learning.🤖
   
@@ -19,13 +19,15 @@ Hi there 👋, I am
 
 #### Reach out to me on my debarghya2201@gmail.com or debarghyarockz@gmail.com you can find my socials below.
 
-## SOCIALS 🌐
+## SOCIALS and OTHERS 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/) 
+
+
 
 ## TECH STACK
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,rust)
+![Languages](https://skillicons.dev/icons?i=python,cpp,rust)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui)
@@ -37,10 +39,10 @@ Hi there 👋, I am
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
 
 #### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify)
+![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=markdown,vscode,visualstudio,linux,bash,latex,figma,canva,blender)
+![Others](https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,figma,blender)
 
 
 ## ✍️ GitHub Stats:
