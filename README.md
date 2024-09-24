@@ -2,7 +2,7 @@ Hi there 👋, I am
 
 # Debarghya Saha
 
-## A Data Science and Machine Learning Enthusiast, 3d Artist , Leetcoder.
+## A Data Science and Machine Learning Enthusiast, 3d Artist , Newb Leetcoder.
 
 ### An UG Student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata who began his 3d artist journey as a hobby in 2018 then turned into a gig which I continued till 2022. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting i start learning it. I wish to become a better Engineer by bringing up the solutions for unsolved problems and helping the community out with my skills for growing towards a better future.
 
