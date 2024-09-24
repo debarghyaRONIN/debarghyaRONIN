@@ -15,7 +15,7 @@ Hi there 👋, I am
 - Love making Games especially designing characters and game mechanics. 🎮
   
 
-#### Reach out to me on debarghya2201@gmail.com or debarghyarockz@gmail.com or you can find my socials below.
+#### Reach out to me on debarghyarockz@gmail.com or you can find my socials below.
 
 ## SOCIALS and OTHERS 🌐
 
