@@ -21,11 +21,11 @@
 🏆 Smart India Hackathon 2024 - Winner🥇 Smart India Hackathon 2023 (Internal) - Winner
 </div>
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with love">
+
+
 </p>
 Programming Languages
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript&theme=dark" alt="Programming Languages"/>
 </div>
 Frontend Technologies
@@ -33,7 +33,7 @@ Frontend Technologies
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui&theme=dark" alt="Frontend Technologies"/>
 </div>
 Backend Technologies
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,django&theme=dark" alt="Backend Technologies"/>
 </div>
 Database & Tools
@@ -41,28 +41,28 @@ Database & Tools
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb&theme=dark" alt="Database & Tools"/>
 </div>
 DevOps & Cloud
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp&theme=dark" alt="DevOps & Cloud"/>
 </div>
 Other Tools & Technologies
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,blender,unity,unreal,zbrush&theme=dark" alt="Other Tools"/>
 </div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-<p align="center">
+<p ="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="Most Used Languages" />
 </p>
-<div align="center">
+<div >
 Show Image
 </div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/debarghya-saha-99baa624a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
@@ -73,7 +73,7 @@ Show Image
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-<div align="center">
+<div>
 Show Image
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
