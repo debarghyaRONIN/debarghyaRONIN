@@ -29,7 +29,7 @@ Hi there 👋, I am
 
 ## TECH STACK
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,cpp,rust)
+![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javasript)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui)
