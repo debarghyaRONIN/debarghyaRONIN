@@ -1,9 +1,9 @@
-<div align="center">👋 Hello World, I'm Debarghya Saha! </div>
+<div align="center">👋 Hello I'm Debarghya Saha! </div>
 <div align="center">
-Show Image
+
 </div>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+ About Me
 
 🎓 UG Student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata
 💡 Started my 3D artist journey in 2018 which turned into a gig until 2022
