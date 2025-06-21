@@ -14,7 +14,7 @@ Hi there 👋, I am
 
 - Currently Exploring Machine Learning and Deep Learning.🤖
   
-- Also doing **Backend and API** development with **Python**. 🧑‍💻
+- Also doing **Backend and API** development with **Python and Javascript**. 🧑‍💻
   
 - Love making Games especially designing characters and game mechanics. 🎮
   
@@ -32,7 +32,7 @@ Hi there 👋, I am
 ![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javasript)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,next.js)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=flask,fastapi,django,node.js)
