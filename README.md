@@ -35,7 +35,7 @@ Hi there 👋, I am
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,next.js)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=flask,fastapi,django,node.js)
+![Backend Technologies](https://skillicons.dev/icons?i=flask,fastapi,django,nodejs)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
