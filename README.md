@@ -2,51 +2,67 @@ Hi there 👋, I am
 
 # Debarghya Saha
 
-## A Data Science and Machine Learning Enthusiast, 3d Artist , Newb Leetcoder.
+## A Data Science and Machine Learning Enthusiast, 3D Artist, Newb Leetcoder.
 
-### An UG Student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata who began his 3d artist journey as a hobby in 2018 then turned into a gig which I continued till 2022. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting i start learning it. I wish to become a better Engineer by bringing up the solutions for unsolved problems and helping the community out with my skills for growing towards a better future.
+### An UG Student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata who began his 3D artist journey as a hobby in 2018 then turned into a gig which I continued till 2022. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting I start learning it. I wish to become a better Engineer by bringing up the solutions for unsolved problems and helping the community out with my skills for growing towards a better future.
 
-### Achievements!
-- Smart India Hackathon 2024 - Winner
-- Smart India Hackathon 2023(Internal) - Winner
+### 🚀 Achievements!
+- 🏆 **Smart India Hackathon 2024 - Winner**
+- 🏅 **Smart India Hackathon 2023 (Internal) - Winner**
 
-### Thanks!
+---
 
-- Currently Exploring Machine Learning and Deep Learning.🤖
-  
-- Also doing **Backend and API** development with **Python and Javascript**. 🧑‍💻
-  
-- Love making Games especially designing characters and game mechanics. 🎮
-  
+### 🧠 Currently Exploring:
+- **Machine Learning and Deep Learning** 🤖
+- **Backend and API Development** with Python and JavaScript 🧑‍💻
+- 🎮 **Game Development** – character design & game mechanics
 
-#### Reach out to me on debarghyarockz@gmail.com or you can find my socials below.
+---
 
-## SOCIALS and OTHERS 🌐
+#### 📬 Reach out at: **debarghyarockz@gmail.com**  
+Or find my socials below 👇
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/) 
-- [Check out my Codolio profile](https://codolio.com/profile/q684SJ8c)
+---
 
+## 🌐 SOCIALS and OTHERS
 
-## TECH STACK
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javasript)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/debarghya-saha-99baa624a/)  
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-orange?style=for-the-badge&logo=appveyor)](https://codolio.com/profile/q684SJ8c)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,next.js)
+---
 
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=flask,fastapi,django,nodejs)
+## 🛠️ TECH STACK
 
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
+#### 💻 Programming Languages  
+![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javascript&theme=dark)
 
-#### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp)
+#### 🌐 Frontend Technologies  
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,nextjs&theme=dark)
 
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,blender,unity,unreal,zbrush)
+#### 🧪 Backend Technologies  
+![Backend](https://skillicons.dev/icons?i=flask,fastapi,django,nodejs&theme=dark)
 
+#### 🗄️ Database & Tools  
+![Database](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb&theme=dark)
+
+#### ☁️ DevOps & Cloud  
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp&theme=dark)
+
+#### 🧰 Other Tools & Technologies  
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,blender,unity,unreal,zbrush&theme=dark)
+
+---
 
 ## ✍️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false)<br/><br/> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false" width="96%"/>
+</p>
+
+---
+
