@@ -41,11 +41,11 @@ Driven by curiosity, I enjoy diving deep into new technologies—from reinforcem
 
 ## 🌱 Currently Learning & Exploring
 
-- ✅ LLM Prompt Engineering & Finetuning
-- ✅ Distributed ML with Dask & Ray
-- ✅ MLOps: Model tracking, logging, drift detection, lineage tracking
-- ✅ APIs for generative AI and data automation
-- ✅ System Design for AI pipelines & cloud-native apps
+- LLM Prompt Engineering & Finetuning
+- Distributed ML with Dask & Ray
+- MLOps: Model tracking, logging, drift detection, lineage tracking
+- APIs for generative AI and data automation
+- System Design for AI pipelines & cloud-native apps
 
 ---
 
