@@ -1,52 +1,95 @@
-Hi there 👋, I am
+# 👋 Hi there, I'm **Debarghya Saha**
 
-# Debarghya Saha
+### 🚀 Data Science & ML Enthusiast | 🎨 3D Artist | 🧠 MLOps Explorer | 🛡️ Hackathon Winner | 🧑‍💻 Backend Developer
 
-## A Data Science and Machine Learning Enthusiast, 3d Artist , Newb Leetcoder.
+---
 
-### An UG Student in Computer Science & Business Systems at Meghnad Saha Institute of Technology, Kolkata who began his 3d artist journey as a hobby in 2018 then turned into a gig which I continued till 2022. My coding journey began in 2018, and in 2021 I delved into data analytics and machine learning. I have a passion for exploring various technologies as if I find something interesting i start learning it. I wish to become a better Engineer by bringing up the solutions for unsolved problems and helping the community out with my skills for growing towards a better future.
+## 👨‍🎓 About Me
 
-### Achievements!
-- Smart India Hackathon 2024 - Winner
-- Smart India Hackathon 2023(Internal) - Winner
+I’m an undergraduate student in **Computer Science & Business Systems** at *Meghnad Saha Institute of Technology, Kolkata*.
 
-### Thanks!
+My tech journey started in 2018 with coding and 3D art. I worked professionally as a **3D Artist** from 2018–2022. In 2021, I pivoted into **Data Science** and **Machine Learning**, and I’ve been continuously exploring modern AI, MLOps, system design, and scalable engineering practices ever since.
 
-- Currently Exploring Machine Learning and Deep Learning.🤖
+Driven by curiosity, I enjoy diving deep into new technologies—from reinforcement learning with Pokémon to full-scale AI pipelines for finance and law enforcement use cases.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner - Smart India Hackathon 2024**  
+  *(Problem Statement #1742 - Ministry of Education)*  
+  → Built a rule-based + GenAI platform for standardizing “Odd Schools” with planning tools, secure infra, and cloud AI chatbot support.
   
-- Also doing **Backend and API** development with **Python and Javascript**. 🧑‍💻
-  
-- Love making Games especially designing characters and game mechanics. 🎮
-  
+- 🥇 **Winner - Smart India Hackathon 2023 (Internal Round)**  
+  *(Worked on scalable and secure educational tech solutions)*
 
-#### Reach out to me on debarghyarockz@gmail.com or you can find my socials below.
+---
 
-## SOCIALS and OTHERS 🌐
+## 💼 What I'm Doing Now
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-saha-99baa624a/) 
-- [Check out my Codolio profile](https://codolio.com/profile/q684SJ8c)
+- 🔍 **Intern** at a **hedge fund** working on ML models for stock prediction  
+  (ARIMA, GBM, Dask, data pipelines, visualization)
+- ⚙️ **MLOps Projects** with full CI/CD pipelines using:
+  Docker, MLflow, GitHub Actions, Minikube, Prometheus, Grafana, EvidentlyAI, OpenLineage
+- 🧠 Finetuning and prompting with **LLMs** (LLaMA, Ollama, Gemini, Groq) for:
+  - SQL generation
+  - Rule-based automation
+  - Question-answer systems
+- 🎮 Building games and tooling in **Unity**, exploring **RL** agents in Python
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- ✅ LLM Prompt Engineering & Finetuning
+- ✅ Distributed ML with Dask & Ray
+- ✅ MLOps: Model tracking, logging, drift detection, lineage tracking
+- ✅ APIs for generative AI and data automation
+- ✅ System Design for AI pipelines & cloud-native apps
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: **debarghyarockz@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/debarghya-saha-99baa624a/)
+- 🧠 [Codolio Portfolio](https://codolio.com/profile/q684SJ8c)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javascript)
+
+### 🌐 Frontend Technologies
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,nextjs)
+
+### 🔧 Backend & API Frameworks
+![Backend](https://skillicons.dev/icons?i=flask,fastapi,django,nodejs)
+
+### 🛢️ Databases & Storage
+![DBs](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)
+
+### ☁️ Cloud & DevOps Tools
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp)
+
+### 🧪 MLOps & Infra
+- MLflow, Prometheus, Grafana, EvidentlyAI, OpenLineage, DataHub
+- DVC, Airflow, Minikube, Kubernetes (basics)
+
+### 🧰 Other Tools & Tech
+![Tools](https://skillicons.dev/icons?i=vscode,linux,bash,latex,blender,unity,unreal,zbrush)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false)
+
+---
 
 
-## TECH STACK
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,cpp,typescript,javasript)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,next.js)
-
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=flask,fastapi,django,nodejs)
-
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)
-
-#### DevOps & Cloud
-![Others](https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=vscode,visualstudio,linux,bash,latex,blender,unity,unreal,zbrush)
-
-
-## ✍️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false)<br/><br/>
