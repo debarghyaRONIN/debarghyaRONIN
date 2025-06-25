@@ -26,9 +26,6 @@ Driven by curiosity, I enjoy diving deep into new technologies—from reinforcem
 ---
 
 ## 💼 What I'm Doing Now
-
-- 🔍 **Intern** at a **hedge fund** working on ML models for stock prediction  
-  (ARIMA, GBM, Dask, data pipelines, visualization)
 - ⚙️ **MLOps Projects** with full CI/CD pipelines using:
   Docker, MLflow, GitHub Actions, Minikube, Prometheus, Grafana, EvidentlyAI, OpenLineage
 - 🧠 Finetuning and prompting with **LLMs** (LLaMA, Ollama, Gemini, Groq) for:
