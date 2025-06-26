@@ -86,7 +86,7 @@
 
 ### ☁️ DevOps & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,gcp&theme=dark" />
 </div>
 
 ### 🎨 Creative & Development Tools
