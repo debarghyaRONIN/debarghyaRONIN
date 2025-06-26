@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Debarghya Saha
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+Enthusiast;3D+Artist+%26+Creative+Developer;Newb+Leetcoder+%26+Problem+Solver;Computer+Science+%26+Business+Systems+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+Enthusiast;3D+Artist+%26+Creative+Developer;Computer+Science+%26+Business+Systems+Student" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -103,20 +103,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghyaRONIN&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/debarghyaRONIN/debarghyaRONIN/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -124,7 +110,6 @@
 ```ascii
 🎯 Building ML models for real-world problems
 🚀 Developing scalable backend architectures  
-🎨 Creating immersive 3D experiences
 📚 Contributing to open-source projects
 🤝 Collaborating on innovative solutions
 ```
