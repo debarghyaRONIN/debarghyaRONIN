@@ -55,14 +55,9 @@ Or find my socials below 👇
 
 ## ✍️ GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false" width="96%"/>
-</p>
+## ✍️ GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=debarghyaRONIN&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=debarghyaRONIN&theme=chartreuse-dark&hide_border=false)<br/><br/>
 
 ---
 
