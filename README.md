@@ -142,5 +142,5 @@
 </div>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/debarghyaRONIN">debarghyaRONIN</a> - Let's build something amazing together!</sub>
+  <sub>⭐ From <a href="https://github.com/debarghyaRONIN">debarghyaRONIN</a> - Build it, Break it, build it better.</sub>
 </div>
