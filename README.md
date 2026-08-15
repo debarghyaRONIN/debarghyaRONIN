@@ -11,9 +11,6 @@
 ---
 
 ## 🎯 About Me
-
-**Computer Science & Business Systems Student** at **Meghnad Saha Institute of Technology, Kolkata**
-
 🎨 Started my **3D art journey** in 2018 as a hobby, evolved into professional gigs until 2022  
 💻 **Coding journey** began in 2018, dove deep into **data analytics & ML** in 2021  
 🔍 Passionate about exploring new technologies - if it's interesting, I'm learning it!  
